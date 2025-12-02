@@ -34,7 +34,7 @@
         </mxCell>
         <mxCell id="HWv0FmmKrOWafxZc18gv-0" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;strokeColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="120" as="sourcePoint" />
+            <mxPoint x="200" y="110" as="sourcePoint" />
             <mxPoint x="320" y="180" as="targetPoint" />
             <Array as="points">
               <mxPoint x="200" y="140" />
