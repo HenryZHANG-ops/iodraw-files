@@ -91,23 +91,14 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BZa_cE7C9HJ4oPyvGAAJ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HWv0FmmKrOWafxZc18gv-15" target="HWv0FmmKrOWafxZc18gv-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="HWv0FmmKrOWafxZc18gv-15" value="&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot; face=&quot;Helvetica&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Compare&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#000000;fillColor=none;strokeWidth=2;opacity=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="490" y="270" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HWv0FmmKrOWafxZc18gv-16" value="&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot; face=&quot;Helvetica&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Compare&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#000000;fillColor=none;strokeWidth=2;opacity=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="480" y="120" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BZa_cE7C9HJ4oPyvGAAJ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NJ6m-MFjI6P_LoRCbVez-1" target="HWv0FmmKrOWafxZc18gv-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="NJ6m-MFjI6P_LoRCbVez-1" value="&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot; face=&quot;Helvetica&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Median ERP&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#FFFFFF;fillColor=none;strokeWidth=2;opacity=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="380" y="160" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="BZa_cE7C9HJ4oPyvGAAJ-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="670" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
