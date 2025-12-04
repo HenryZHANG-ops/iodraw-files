@@ -50,6 +50,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ncUSa-QpekzJhZlPB_J8-19" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Outliers&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=2;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
