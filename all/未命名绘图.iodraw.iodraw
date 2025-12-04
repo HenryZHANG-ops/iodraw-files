@@ -16,7 +16,7 @@
         <mxCell id="ncUSa-QpekzJhZlPB_J8-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ncUSa-QpekzJhZlPB_J8-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="265" y="300" as="sourcePoint" />
-            <mxPoint x="260" y="330" as="targetPoint" />
+            <mxPoint x="260" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ncUSa-QpekzJhZlPB_J8-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11">
@@ -34,7 +34,7 @@
           <mxGeometry x="200" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ncUSa-QpekzJhZlPB_J8-9" value="&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Simulated EEG&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
