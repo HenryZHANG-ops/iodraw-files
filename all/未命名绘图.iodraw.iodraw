@@ -10,6 +10,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ncUSa-QpekzJhZlPB_J8-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="ncUSa-QpekzJhZlPB_J8-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Rest EEG&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=2;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="70" y="80" width="120" height="40" as="geometry" />
         </mxCell>
@@ -34,6 +37,9 @@
             <mxPoint x="130" y="280" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ncUSa-QpekzJhZlPB_J8-11" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Rest EEG&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=2;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270" y="80" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
