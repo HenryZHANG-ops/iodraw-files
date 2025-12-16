@@ -31,7 +31,7 @@
           <mxGeometry x="70" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ncUSa-QpekzJhZlPB_J8-9" value="&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Simulated EEG&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="70" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="320" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ncUSa-QpekzJhZlPB_J8-10" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=2;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
           <mxGeometry relative="1" as="geometry">
