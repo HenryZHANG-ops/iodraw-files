@@ -37,7 +37,7 @@
           <mxGeometry x="180" y="-1260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ncUSa-QpekzJhZlPB_J8-9" value="&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Simulated EEG before&lt;/span&gt;&lt;span style=&quot;font-size: 20px; background-color: initial;&quot;&gt;&amp;nbsp;changing the amplitude of 1% of the trials&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="150" y="-970" width="210" height="230" as="geometry" />
+          <mxGeometry x="135" y="-970" width="210" height="230" as="geometry" />
         </mxCell>
         <mxCell id="MUvs8UfRxyV6UgEZanyU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ncUSa-QpekzJhZlPB_J8-19" target="ncUSa-QpekzJhZlPB_J8-22">
           <mxGeometry relative="1" as="geometry" />
@@ -63,7 +63,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MUvs8UfRxyV6UgEZanyU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.429;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ncUSa-QpekzJhZlPB_J8-7" target="ncUSa-QpekzJhZlPB_J8-9">
+        <mxCell id="MUvs8UfRxyV6UgEZanyU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.429;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ncUSa-QpekzJhZlPB_J8-7" target="ncUSa-QpekzJhZlPB_J8-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
