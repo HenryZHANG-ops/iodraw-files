@@ -28,7 +28,12 @@
         </mxCell>
         <mxCell id="MUvs8UfRxyV6UgEZanyU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ncUSa-QpekzJhZlPB_J8-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="-1230" as="targetPoint" />
+            <mxPoint x="650" y="-1170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="385" y="-1230" />
+              <mxPoint x="385" y="-1170" />
+              <mxPoint x="470" y="-1170" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ncUSa-QpekzJhZlPB_J8-7" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Background EEG&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
