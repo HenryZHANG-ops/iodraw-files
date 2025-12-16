@@ -36,9 +36,9 @@
             <mxPoint x="390" y="200" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HWv0FmmKrOWafxZc18gv-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+        <mxCell id="HWv0FmmKrOWafxZc18gv-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="469.9999999999998" y="325" as="targetPoint" />
+            <mxPoint x="480" y="310" as="targetPoint" />
             <Array as="points">
               <mxPoint x="275" y="230" />
               <mxPoint x="275" y="310" />
