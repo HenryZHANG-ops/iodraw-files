@@ -52,10 +52,10 @@
         <mxCell id="ncUSa-QpekzJhZlPB_J8-22" value="&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Simulated EEG with outliers&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="560" y="-880" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ncUSa-QpekzJhZlPB_J8-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;exitX=0.54;exitY=0.989;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="ncUSa-QpekzJhZlPB_J8-22" edge="1">
+        <mxCell id="ncUSa-QpekzJhZlPB_J8-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1" source="ncUSa-QpekzJhZlPB_J8-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="649.8000000000002" y="-1205.6599999999999" as="sourcePoint" />
-            <mxPoint x="650" y="-924.8299999999999" as="targetPoint" />
+            <mxPoint x="664.8000000000002" y="-1189.9999999999998" as="sourcePoint" />
+            <mxPoint x="660" y="-864.34" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MUvs8UfRxyV6UgEZanyU-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3">
