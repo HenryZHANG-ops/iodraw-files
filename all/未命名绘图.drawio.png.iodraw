@@ -34,9 +34,7 @@
             <mxPoint x="480" y="400.02" as="targetPoint" />
             <mxPoint x="170.01999999999998" y="290" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="170" y="390.02" />
-              <mxPoint x="430" y="390.02" />
-              <mxPoint x="430" y="400.02" />
+              <mxPoint x="170" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
