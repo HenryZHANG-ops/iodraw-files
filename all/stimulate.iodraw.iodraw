@@ -56,12 +56,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="649.8000000000002" y="-1205.6599999999999" as="sourcePoint" />
             <mxPoint x="650" y="-924.8299999999999" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="650" y="-1190" />
-              <mxPoint x="640" y="-1190" />
-              <mxPoint x="640" y="-1043" />
-              <mxPoint x="650" y="-1043" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="MUvs8UfRxyV6UgEZanyU-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3">
