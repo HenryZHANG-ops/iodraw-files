@@ -41,13 +41,13 @@
         <mxCell id="ncUSa-QpekzJhZlPB_J8-22" value="&lt;br&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 20px;&quot;&gt;Simulated EEG&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;after changing the amplitude of 1% of the trials&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="595" y="-910" width="170" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="MUvs8UfRxyV6UgEZanyU-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
+        <mxCell id="MUvs8UfRxyV6UgEZanyU-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="-1000.29" as="sourcePoint" />
-            <mxPoint x="220" y="-1035" as="targetPoint" />
+            <mxPoint x="380" y="-1080" as="sourcePoint" />
+            <mxPoint x="220" y="-1050" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="301" y="-1065" />
-              <mxPoint x="301" y="-1034" />
+              <mxPoint x="301" y="-1080" />
+              <mxPoint x="301" y="-1049" />
             </Array>
           </mxGeometry>
         </mxCell>
