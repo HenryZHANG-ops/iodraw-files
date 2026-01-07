@@ -88,7 +88,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iIKlt8u_BOekg5qmRLXG-0" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Threshold&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#000000;fillColor=none;strokeWidth=2;opacity=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="100" width="110" height="40" as="geometry" />
+          <mxGeometry x="200" y="100" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
